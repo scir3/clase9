@@ -1,0 +1,45 @@
+.encabezado {
+    text-align: center;
+    background-color: #e6e6e6;
+  }
+  
+  h1 {
+    background-color: #c4c4c4;
+    color: #055777;
+    font-size: 35px;
+    margin-bottom: 100px;
+  }
+  
+  h2 {
+    background-color: #c4c4c4;
+    color: #055777;
+    font-size: 20px;
+    margin-top: 21;
+    margin-bottom: 21;
+  }
+  
+  dd{
+      margin-left: 80px;
+  }
+  
+  b {
+    font-style: italic;
+  }
+  
+  footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    align-items: center;
+    background-color: #005677;
+  }
+  
+  footer h2 {
+    background-color: #005677;
+    color: #ffffff;
+  }
+  
+  .icono {
+    padding: 10px;
+  }
+  
